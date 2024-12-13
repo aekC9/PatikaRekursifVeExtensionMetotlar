@@ -1,0 +1,14 @@
+C:\Users\Loneliness\OneDrive\Belgeler\VSCode\PatikaRekursifVeExtensionMetotlar\bin\Debug\net9.0\PatikaRekursifVeExtensionMetotlar.exe
+C:\Users\Loneliness\OneDrive\Belgeler\VSCode\PatikaRekursifVeExtensionMetotlar\bin\Debug\net9.0\PatikaRekursifVeExtensionMetotlar.deps.json
+C:\Users\Loneliness\OneDrive\Belgeler\VSCode\PatikaRekursifVeExtensionMetotlar\bin\Debug\net9.0\PatikaRekursifVeExtensionMetotlar.runtimeconfig.json
+C:\Users\Loneliness\OneDrive\Belgeler\VSCode\PatikaRekursifVeExtensionMetotlar\bin\Debug\net9.0\PatikaRekursifVeExtensionMetotlar.dll
+C:\Users\Loneliness\OneDrive\Belgeler\VSCode\PatikaRekursifVeExtensionMetotlar\bin\Debug\net9.0\PatikaRekursifVeExtensionMetotlar.pdb
+C:\Users\Loneliness\OneDrive\Belgeler\VSCode\PatikaRekursifVeExtensionMetotlar\obj\Debug\net9.0\PatikaRekursifVeExtensionMetotlar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Loneliness\OneDrive\Belgeler\VSCode\PatikaRekursifVeExtensionMetotlar\obj\Debug\net9.0\PatikaRekursifVeExtensionMetotlar.AssemblyInfoInputs.cache
+C:\Users\Loneliness\OneDrive\Belgeler\VSCode\PatikaRekursifVeExtensionMetotlar\obj\Debug\net9.0\PatikaRekursifVeExtensionMetotlar.AssemblyInfo.cs
+C:\Users\Loneliness\OneDrive\Belgeler\VSCode\PatikaRekursifVeExtensionMetotlar\obj\Debug\net9.0\PatikaRekursifVeExtensionMetotlar.csproj.CoreCompileInputs.cache
+C:\Users\Loneliness\OneDrive\Belgeler\VSCode\PatikaRekursifVeExtensionMetotlar\obj\Debug\net9.0\PatikaRekursifVeExtensionMetotlar.dll
+C:\Users\Loneliness\OneDrive\Belgeler\VSCode\PatikaRekursifVeExtensionMetotlar\obj\Debug\net9.0\refint\PatikaRekursifVeExtensionMetotlar.dll
+C:\Users\Loneliness\OneDrive\Belgeler\VSCode\PatikaRekursifVeExtensionMetotlar\obj\Debug\net9.0\PatikaRekursifVeExtensionMetotlar.pdb
+C:\Users\Loneliness\OneDrive\Belgeler\VSCode\PatikaRekursifVeExtensionMetotlar\obj\Debug\net9.0\PatikaRekursifVeExtensionMetotlar.genruntimeconfig.cache
+C:\Users\Loneliness\OneDrive\Belgeler\VSCode\PatikaRekursifVeExtensionMetotlar\obj\Debug\net9.0\ref\PatikaRekursifVeExtensionMetotlar.dll
